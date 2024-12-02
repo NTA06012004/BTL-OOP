@@ -1,6 +1,6 @@
 # Dictionary Project
 
-## Phiên bản nộp: ver3
+## Phiên bản nộp: completed_dictionary
 
 ## 1. Xác định yêu cầu
 
