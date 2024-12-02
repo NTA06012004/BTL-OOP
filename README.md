@@ -1,5 +1,7 @@
 # Dictionary Project
 
+## Phiên bản nộp: ver3
+
 ## 1. Xác định yêu cầu
 
 ### **Yêu cầu chức năng:**
